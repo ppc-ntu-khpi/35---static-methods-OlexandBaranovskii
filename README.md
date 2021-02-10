@@ -53,3 +53,4 @@ public class TestResult {
 }
 ```
 ###Результат програми
+!(https://github.com/ppc-ntu-khpi/35---static-methods-OlexandBaranovskii/blob/master/img/screen_pg.png)
