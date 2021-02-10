@@ -4,7 +4,7 @@
 package domain;
 /**
  * A class that represent an exercise
- * @author Illia_R
+ * @author DevShade
  */
 public class Exercise {
     
